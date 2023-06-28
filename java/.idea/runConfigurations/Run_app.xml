@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run app" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="fr.arolla.Main" />
+    <module name="deux-et-cinq" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

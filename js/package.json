@@ -1,0 +1,16 @@
+{
+  "name": "stuck-in-the-mud",
+  "version": "1.0.0",
+  "description": "Implemntation of the children game \"Stuck in the mud\"",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "mocha",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
