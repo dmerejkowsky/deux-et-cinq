@@ -1,6 +1,6 @@
 # deux-et-cinq
 
-Petit kata de refactoring en Français
+Un petit kata de refactoring
 
 ## Règles du jeu
 
