@@ -19,8 +19,7 @@ function main() {
     return
   }
   console.log('Score:', lancer.getScore())
-  const àLancer = lancer.désPourLeProchainLancer()
-  console.log(`Il reste ${àLancer} dés à lancer`)
+  console.log(`Il reste ${lancer.resteALancer()} dés à lancer`)
 }
 
 

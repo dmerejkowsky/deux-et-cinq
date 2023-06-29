@@ -1,4 +1,4 @@
-class Roll {
+class Lancer {
 
   constructor(d1, d2, d3, d4, d5) {
     this.d1 = d1
@@ -28,7 +28,7 @@ class Roll {
     return score
   }
 
-  désPourLeProchainLancer() {
+  resteALancer() {
     const dés = []
     dés.push(this.d1)
     dés.push(this.d2)
@@ -60,4 +60,4 @@ class Roll {
 
 }
 
-module.exports = Roll
+module.exports = Lancer
